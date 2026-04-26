@@ -50,4 +50,5 @@ A_{12} & A_{22} & 0 & 0 & 0 & 0 \\
 </p>
 
 >[!NOTE]
->random field generation is performed using https://github.com/pgavallas/MultivariateRF
+>- random field generation is performed using https://github.com/pgavallas/MultivariateRF
+>- for functions to be imported properly (e.g., abaqus_functions.py), they need to be in the abaqus working directory.
